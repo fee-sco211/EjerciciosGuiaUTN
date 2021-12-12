@@ -1,0 +1,12 @@
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\bin\Debug\net5.0\BibliotecaDeClasesEjercicio14.deps.json
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\bin\Debug\net5.0\BibliotecaDeClasesEjercicio14.dll
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\bin\Debug\net5.0\ref\BibliotecaDeClasesEjercicio14.dll
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\bin\Debug\net5.0\BibliotecaDeClasesEjercicio14.pdb
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\obj\Debug\net5.0\BibliotecaDeClasesEjercicio14.csproj.AssemblyReference.cache
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\obj\Debug\net5.0\BibliotecaDeClasesEjercicio14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\obj\Debug\net5.0\BibliotecaDeClasesEjercicio14.AssemblyInfoInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\obj\Debug\net5.0\BibliotecaDeClasesEjercicio14.AssemblyInfo.cs
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\obj\Debug\net5.0\BibliotecaDeClasesEjercicio14.csproj.CoreCompileInputs.cache
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\obj\Debug\net5.0\BibliotecaDeClasesEjercicio14.dll
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\obj\Debug\net5.0\ref\BibliotecaDeClasesEjercicio14.dll
+C:\Users\EGY96\OneDrive\Escritorio\2doParcial\Ejercicios_Fede\BibliotecaDeClasesEjercicio14\obj\Debug\net5.0\BibliotecaDeClasesEjercicio14.pdb
